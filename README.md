@@ -16,7 +16,7 @@ Considering previous results, we have seen that when we use a longer sequence (i
 
 | Model | Technique | MAE |Loss function|Mean gradients|
 | ----- | --------- |-----|-------------|--------------|          
-|RNN    | **Base model**              |    ---          |     ---          |![Mean gradient simple](https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/mean_gradient_rnn_simple.PNG)|
+|RNN    | **Base model**              |    ---          |     ---          |![Mean gradient simple](https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/mean_gradient_rnn_simple.PNG | width=100)|
 |RNN    |  **Use ReLU (activation function)** |    ---          |     ---          |---|
 |RNN    | **Weights initialization** |    ---          |     ---          |---|
 
