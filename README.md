@@ -16,7 +16,7 @@ Considering previous results, we have seen that when we use a longer sequence (i
 
 In the next table we can see the performance of our RNN model using different techniques. We can see the prediction (in testing data) given in each case and its loss function and mean gradients values (given in training). Mean absolute error (MAE) in testing also is given.
 
-| Model | Technique |Mean| Prediction |Loss function|Mean gradients|
+| Model | Technique |MAE| Prediction |Loss function|Mean gradients|
 | ----- | --------- |-----|-------------|--------------|---|          
 |RNN    | **Base model**  |36.13            |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/prediction_rnn_simple.PNG" width="300" height="200">         |     <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/loss_rnn_simple.PNG" width="300" height="200">        |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/mean_gradient_rnn_simple.PNG" width="300" height="200">|
 |RNN    |  **Use ReLU (activation function)**  |41.13|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/prediction_rnn_relu.PNG" width="300" height="200">         |     <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/loss_rnn_relu.PNG" width="300" height="200">        |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/mean_gradient_rnn_relu.PNG" width="300" height="200">|
