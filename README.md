@@ -11,11 +11,11 @@ The next table summarizes the results given by our models (RNN, LSTM and GRU).
 |Model|Setting|MAE| Prediction|
 | ----- | --------- |-----|-------------|
 |RNN       |Sequence Lenght: 10, Stack layers: 2| 19.15 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq10_stack2.PNG" width="300" height="200">|
-|RNN       |Sequence Lenght: 10, Stack layers: 5| 39.93 | |
-|RNN       |Sequence Lenght: 25, Stack layers: 2| 17.13 | |
-|RNN       |Sequence Lenght: 25, Stack layers: 5| 39.83 | |
-|RNN       |Sequence Lenght: 50, Stack layers: 2| 19.78 | |
-|RNN       |Sequence Lenght: 50, Stack layers: 5| 43.07 | |
+|RNN       |Sequence Lenght: 10, Stack layers: 5| 39.93 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq10_stack5.PNG" width="300" height="200">|
+|RNN       |Sequence Lenght: 25, Stack layers: 2| 17.13 |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq25_stack2.PNG" width="300" height="200"> |
+|RNN       |Sequence Lenght: 25, Stack layers: 5| 39.83 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq25_stack5.PNG" width="300" height="200">|
+|RNN       |Sequence Lenght: 50, Stack layers: 2| 19.78 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq50_stack2.PNG" width="300" height="200">|
+|RNN       |Sequence Lenght: 50, Stack layers: 5| 43.07 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq50_stack5.PNG" width="300" height="200">|
 
 Codes are available in the next Jupyter notebooks.
 
