@@ -20,7 +20,6 @@ In the next table we can see the performance of our RNN model using different te
 | ----- | --------- |-----|-------------|--------------|---|          
 |RNN    | **Base model**  |36.13            |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/prediction_rnn_simple.PNG" width="300" height="200">         |     <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/loss_rnn_simple.PNG" width="300" height="200">        |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/mean_gradient_rnn_simple.PNG" width="300" height="200">|
 |RNN    |  **Use ReLU (activation function)**  |41.13|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/prediction_rnn_relu.PNG" width="300" height="200">         |     <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/loss_rnn_relu.PNG" width="300" height="200">        |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/mean_gradient_rnn_relu.PNG" width="300" height="200">|
-
 |RNN    | **Weights initialization** |36.16 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/prediction_rnn_identity.PNG" width="300" height="200">         |     <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/loss_rnn_identity.PNG" width="300" height="200">        |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/mean_gradient_rnn_identity.PNG" width="300" height="200">|
 
 
