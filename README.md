@@ -8,9 +8,14 @@ Moreover, this repository is divided in two parts. First part evaluate different
 
 The next table summarizes the results given by our models (RNN, LSTM and GRU). 
 
-|Model|Technique|MAE| Prediction|
+|Model|Setting|MAE| Prediction|
 | ----- | --------- |-----|-------------|
-|       |           |     | |
+|RNN       |Sequence Lenght: 10, Stack layers: 2| 19.15 | |
+|RNN       |Sequence Lenght: 10, Stack layers: 5| 39.93 | |
+|RNN       |Sequence Lenght: 25, Stack layers: 2| 17.13 | |
+|RNN       |Sequence Lenght: 25, Stack layers: 5| 39.83 | |
+|RNN       |Sequence Lenght: 50, Stack layers: 2| 19.78 | |
+|RNN       |Sequence Lenght: 50, Stack layers: 5| 43.07 | |
 
 Codes are available in the next Jupyter notebooks.
 
