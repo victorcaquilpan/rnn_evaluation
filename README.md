@@ -14,7 +14,7 @@ The next table summarizes the results given by our models (RNN, LSTM and GRU).
 
 Codes are available in the next Jupyter notebooks.
 
-* [RNN Models](https://github.com/victorcaquilpan/CNN_evaluation/blob/main/code/basic_cnn.ipynb)
+* [RNN Models](https://github.com/victorcaquilpan/rnn_evaluation/blob/main/code/RNN_Models_Stock_Predictions.ipynb)
 
 
 
