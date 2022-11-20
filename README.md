@@ -14,9 +14,9 @@ Considering previous results, we have seen that when we use a longer sequence (i
 * **Use ReLU (activation function)**
 * **Weights initialization**
 
-In the next table we can see the performance of our RNN model using different techniques. We can see the Mean Absolute Error (MAE) given in each case and its loss function and mean gradients values. 
+In the next table we can see the performance of our RNN model using different techniques. We can see the prediction (in testing data) given in each case and its loss function and mean gradients values (given in training) 
 
-| Model | Technique | MAE |Loss function|Mean gradients|
+| Model | Technique | Prediction |Loss function|Mean gradients|
 | ----- | --------- |-----|-------------|--------------|          
 |RNN    | **Base model**              |    ---          |     ---          |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/mean_gradient_rnn_simple.PNG" width="300" height="200">|
 |RNN    |  **Use ReLU (activation function)** |    ---          |     ---          |---|
