@@ -17,7 +17,7 @@ Considering previous results, we have seen that when we use a longer sequence (i
 
 | Model | Technique | MAE |Loss function|
 | ----- | --------- |-----|-------------|          
-|RNN    | Base model              |    ---          |     ---          |
+|RNN    | **Base model**              |    ---          |     ---          |
 |RNN    | **Gradient clipping** |    ---          |     ---          |
 |RNN    |  **Use ReLU (activation function)** |    ---          |     ---          |
 |RNN    | **Weights initialization** |    ---          |     ---          |
