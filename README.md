@@ -6,6 +6,17 @@ Moreover, this repository is divided in two parts. First part evaluate different
 
 ## 1) Evaluation of models
 
+The next table summarizes the results given by our models (RNN, LSTM and GRU). 
+
+|Model|Technique|MAE| Prediction|
+| ----- | --------- |-----|-------------|
+|       |           |     | |
+
+Codes are available in the next Jupyter notebooks.
+
+* [RNN Models](https://github.com/victorcaquilpan/CNN_evaluation/blob/main/code/basic_cnn.ipynb)
+
+
 
 ## 2) Tackling gradient problems
 
@@ -14,7 +25,7 @@ Considering previous results, we have seen that when we use a longer sequence (i
 * **Use ReLU (activation function)**
 * **Weights initialization**
 
-In the next table we can see the performance of our RNN model using different techniques. We can see the prediction (in testing data) given in each case and its loss function and mean gradients values (given in training). Mean absolute error (MAE) in testing also is given. The results of these experiments are available in [Github repository](https://github.com/victorcaquilpan/CNN_evaluation/blob/main/code/basic_cnn.ipynb).
+In the next table we can see the performance of our RNN model using different techniques. We can see the prediction (in testing data) given in each case and its loss function and mean gradients values (given in training). Mean absolute error (MAE) in testing also is given. The results of these experiments are available in [this Jupyter notebook](https://github.com/victorcaquilpan/CNN_evaluation/blob/main/code/basic_cnn.ipynb).
 
 | Model | Technique |MAE| Prediction |Loss function|Mean gradients|
 | ----- | --------- |-----|-------------|--------------|---|          
