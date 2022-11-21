@@ -10,9 +10,9 @@ The next table summarizes the results given by our models (RNN, LSTM and GRU).
 
 |Setting|MAE (Using 1 Stack layers)| Prediction (Using 1 Stack layers)|MAE (Using 3 Stack layers)| Prediction (Using 3 Stack layers)|
 | ----- | --------- |-----| ----- | --------- |
-|RNN, Sequence Lenght: 5| 19.15 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq10_stack2.PNG" width="300" height="200">|39.93 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq10_stack5.PNG" width="300" height="200">|
-|RNN, Sequence Lenght: 15| 17.13 |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq25_stack2.PNG" width="300" height="200"> | 39.83 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq25_stack5.PNG" width="300" height="200">|
-|RNN, Sequence Lenght: 30| 19.78 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq50_stack2.PNG" width="300" height="200">| 43.07 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq50_stack5.PNG" width="300" height="200">|
+|RNN, Sequence Lenght: 5| 19.15 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq5_stack1.PNG" width="300" height="200">|39.93 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq5_stack3.PNG" width="300" height="200">|
+|RNN, Sequence Lenght: 15| 17.13 |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq15_stack1.PNG" width="300" height="200"> | 39.83 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq15_stack3.PNG" width="300" height="200">|
+|RNN, Sequence Lenght: 30| 19.78 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq30_stack1.PNG" width="300" height="200">| 43.07 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq30_stack3.PNG" width="300" height="200">|
 
 Codes are available in the next Jupyter notebooks.
 
