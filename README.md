@@ -8,7 +8,7 @@ Moreover, this repository is divided in two parts. First part evaluate different
 
 The next table summarizes the results given by our models (RNN, LSTM and GRU). 
 
-|Setting|MAE (Using 2 Stack layers)| Prediction (Using 2 Stack layers)|MAE (Using 5 Stack layers)| Prediction (Using 5 Stack layers)|
+|Setting|MAE (Using 1 Stack layers)| Prediction (Using 1 Stack layers)|MAE (Using 3 Stack layers)| Prediction (Using 3 Stack layers)|
 | ----- | --------- |-----| ----- | --------- |
 |RNN, Sequence Lenght: 5| 19.15 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq10_stack2.PNG" width="300" height="200">|39.93 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq10_stack5.PNG" width="300" height="200">|
 |RNN, Sequence Lenght: 15| 17.13 |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq25_stack2.PNG" width="300" height="200"> | 39.83 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq25_stack5.PNG" width="300" height="200">|
