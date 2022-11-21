@@ -29,6 +29,10 @@ Codes are available in the next Jupyter notebooks.
 
 Additionally, an ARIMA and linear regression models were tested using the same data for our prediction. These models are considered as our baseline.
 
+|Setting|MAE | Prediction |
+| ----- | --------- |-----|
+|Linear regression|3.2|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/baseline/lr.PNG" width="300" height="200">|
+|ARIMA|79.7|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/baseline/arima.PNG" width="300" height="200">|
 
 
 ## 2) Tackling gradient problems
