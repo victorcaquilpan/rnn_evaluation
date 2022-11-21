@@ -34,6 +34,9 @@ Additionally, an ARIMA and linear regression models were tested using the same d
 |Linear regression|3.2|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/baseline/lr.PNG" width="300" height="200">|
 |ARIMA|79.7|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/baseline/arima.PNG" width="300" height="200">|
 
+The code for these two models is available in:
+
+* [Baseline Models](https://github.com/victorcaquilpan/rnn_evaluation/blob/main/code/Base_Line_Stock_Predictions.ipynb)
 
 ## 2) Tackling gradient problems
 
