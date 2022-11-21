@@ -10,9 +10,9 @@ The next table summarizes the results given by our models (RNN, LSTM and GRU).
 
 |Setting|MAE (Using 1 Stack layers)| Prediction (Using 1 Stack layers)|MAE (Using 3 Stack layers)| Prediction (Using 3 Stack layers)|
 | ----- | --------- |-----| ----- | --------- |
-|RNN, Sequence Lenght: 5| 19.15 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq5_stack1.PNG" width="300" height="200">|39.93 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq5_stack3.PNG" width="300" height="200">|
-|RNN, Sequence Lenght: 15| 17.13 |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq15_stack1.PNG" width="300" height="200"> | 39.83 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq15_stack3.PNG" width="300" height="200">|
-|RNN, Sequence Lenght: 30| 19.78 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq30_stack1.PNG" width="300" height="200">| 43.07 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq30_stack3.PNG" width="300" height="200">|
+|RNN, Sequence Lenght: 5| 7.55 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq5_stack1.PNG" width="300" height="200">|40.14 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq5_stack3.PNG" width="300" height="200">|
+|RNN, Sequence Lenght: 15| 6.43 |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq15_stack1.PNG" width="300" height="200"> | 39.20 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq15_stack3.PNG" width="300" height="200">|
+|RNN, Sequence Lenght: 30| 7.53| <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq30_stack1.PNG" width="300" height="200">| 41.08 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq30_stack3.PNG" width="300" height="200">|
 
 Codes are available in the next Jupyter notebooks.
 
