@@ -27,6 +27,8 @@ Codes are available in the next Jupyter notebooks.
 * [LSTM Models](https://github.com/victorcaquilpan/rnn_evaluation/blob/main/code/LSTM_Models_Stock_Predictions.ipynb)
 * [GRU Models](https://github.com/victorcaquilpan/rnn_evaluation/blob/main/code/GRU_Models_Stock_Predictions.ipynb)
 
+Additionally, an ARIMA and linear regression models were tested using the same data for our prediction. These models are considered as our baseline.
+
 
 
 ## 2) Tackling gradient problems
