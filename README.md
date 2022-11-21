@@ -31,8 +31,9 @@ Additionally, an ARIMA and linear regression models were tested using the same d
 
 |Setting|MAE - r2| Prediction |
 | ----- | --------- |-----|
-|Linear regression|3.2 (MAE) - 0.99 (r2)|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/baseline/lr.PNG" width="300" height="200">|
 |ARIMA|79.7 (MAE) - NaN (r2)|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/baseline/arima.PNG" width="300" height="200">|
+|Linear regression|3.2 (MAE) - 0.99 (r2)|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/baseline/lr.PNG" width="300" height="200">|
+|SVM|54.02 (MAE) - -1(r2)|<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/baseline/svm.PNG" width="300" height="200">|
 
 The code for these two models is available in:
 
