@@ -13,6 +13,9 @@ The next table summarizes the results given by our models (RNN, LSTM and GRU).
 |RNN, Sequence Lenght: 5| 7.55 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq5_stack1.PNG" width="300" height="200">|40.14 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq5_stack3.PNG" width="300" height="200">|
 |RNN, Sequence Lenght: 15| 6.43 |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq15_stack1.PNG" width="300" height="200"> | 39.20 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq15_stack3.PNG" width="300" height="200">|
 |RNN, Sequence Lenght: 30| 7.53| <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq30_stack1.PNG" width="300" height="200">| 41.08 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/rnn/seq30_stack3.PNG" width="300" height="200">|
+|LSTM, Sequence Lenght: 5| 7.55 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/lstm/seq5_stack1.PNG" width="300" height="200">|40.14 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/lstm/seq5_stack3.PNG" width="300" height="200">|
+|LSTM, Sequence Lenght: 15| 6.43 |<img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/lstm/seq15_stack1.PNG" width="300" height="200"> | 39.20 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/lstm/seq15_stack3.PNG" width="300" height="200">|
+|LSTM, Sequence Lenght: 30| 7.53| <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/lstm/seq30_stack1.PNG" width="300" height="200">| 41.08 | <img src="https://github.com/victorcaquilpan/rnn_evaluation/blob/main/images/lstm/seq30_stack3.PNG" width="300" height="200">|
 
 Codes are available in the next Jupyter notebooks.
 
