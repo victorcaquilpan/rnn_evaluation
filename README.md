@@ -21,7 +21,7 @@ Codes are available in the next Jupyter notebooks.
 
 * [RNN Models](https://github.com/victorcaquilpan/rnn_evaluation/blob/main/code/RNN_Models_Stock_Predictions.ipynb)
 * [LSTM Models](https://github.com/victorcaquilpan/rnn_evaluation/blob/main/code/LSTM_Models_Stock_Predictions.ipynb)
-
+* [GRU Models](https://github.com/victorcaquilpan/rnn_evaluation/blob/main/code/GRU_Models_Stock_Predictions.ipynb)
 
 
 
