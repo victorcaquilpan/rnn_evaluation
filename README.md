@@ -50,7 +50,7 @@ The code for these two models is available in:
 
 ## 2) Tackling gradient problems
 
-Considering previous results, we have seen that when we use a longer sequence (i.e. 50 days), **RNN** suffers of the vanishing gradient problem. So, we apply different techniques to tackle this problem, such as:
+Considering previous results, we have seen that when we use a longer sequence (i.e. 30 days), **RNN** suffers of the vanishing gradient problem. So, we apply different techniques to tackle this problem, such as:
 
 * **Use ReLU (activation function)**
 * **Weights initialization**
