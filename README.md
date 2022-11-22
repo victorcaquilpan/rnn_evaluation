@@ -6,7 +6,16 @@ Moreover, this repository is divided in two parts. First part evaluate different
 
 ## 1) Evaluation of models
 
-The next table summarizes the results given by our models (RNN, LSTM and GRU). 
+The next table summarizes the results given by our models (RNN, LSTM and GRU). All the experiments were performed using the same next setting:
+
+* Optimizer: Adam
+* Loss function: MSE
+* Learning rate (ɳ): 0.001
+* Batch size: 25
+* Number of epochs: 50
+* Size RNN hidden layers: 50
+* Dropout RNN layer: 0.1 
+
 
 |Setting|MAE - r2 (Using 1 Stack layers)| Prediction (Using 1 Stack layers)|MAE (Using 3 Stack layers)| Prediction (Using 3 Stack layers)|
 | ----- | --------- |-----| ----- | --------- |
